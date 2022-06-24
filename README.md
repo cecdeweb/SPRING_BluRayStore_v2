@@ -15,3 +15,4 @@ Amélioration AppStore de Blu-Ray v2
 18 - Fichiers statiques hors de l'application <br>
 19 - Créer une page About us <br>
 20 - Page About Us dynamique <br>
+21 - EX. Afficher la liste de films dans la page d'accueil <br>

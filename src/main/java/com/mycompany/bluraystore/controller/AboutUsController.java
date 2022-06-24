@@ -9,7 +9,7 @@ public class AboutUsController {
     @RequestMapping("/about-us")
     public String AboutUsController(){
         System.out.println("AboutUs ok !");
-        return "about-us.html";
+        return "about-us";
     }
 
 }
