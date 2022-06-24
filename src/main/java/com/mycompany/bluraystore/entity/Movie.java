@@ -5,8 +5,6 @@ public class Movie {
     private String title;
     private String genre;
 
-    // click droit > generate > getters and setters
-
     public String getTitle() {
         return title;
     }
